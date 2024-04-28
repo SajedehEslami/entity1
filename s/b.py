@@ -1,0 +1,2 @@
+def hasti():
+    print("Hasti")
